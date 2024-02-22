@@ -1,0 +1,81 @@
+*
+{
+    box-sizing: border-box;
+}
+
+
+.logo
+{
+    width: 100%;
+    max-width: 321px;
+}
+
+.auto 
+{
+    margin: auto;
+}
+
+.sticky
+{
+    position: sticky;
+    top: 0;
+}
+
+
+.header-compact
+{
+    background-color: white;
+    margin: auto;
+    max-width: 720px;
+    border-bottom: 1px solid #6a5ff4;
+    padding: 10px;
+}
+
+.main-compact
+{
+    margin: auto;
+    max-width: 720px;
+    border-left: 1px solid #dcdaff;
+    border-right: 1px solid #dcdaff;
+    padding: 10px;
+}
+
+
+.card
+{
+    border-bottom: 1px solid #c4c0ff;
+    margin: 1rem 0 1rem 0;
+    padding-bottom: 1rem;
+}
+
+iframe
+{
+    display: block;
+    max-width: 700px;
+    margin: auto;
+    border:none;
+    overflow:hidden;
+}
+
+
+
+
+footer
+{
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    /* position: fixed;
+    bottom: 0;
+    left: 0; */
+
+}
+
+.footer-compact
+{
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    max-width: 720px;
+    border-top: 1px solid #6a5ff4;
+    padding: 10px;
+}
